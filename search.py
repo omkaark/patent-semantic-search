@@ -24,3 +24,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Wind Turbine
+# Automobile brake
+# trust in blockchain
